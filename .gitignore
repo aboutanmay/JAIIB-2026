@@ -1,0 +1,40 @@
+﻿# JAIIB-2026 — Track only Markdown notes
+
+# Ignore everything
+*
+
+# Allow directory traversal
+!*/
+
+# Allow only .md files
+!**/*.md
+!.gitignore
+
+# System / OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Binary / media
+*.pdf
+*.xlsx
+*.xls
+*.docx
+*.pptx
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.mp4
+*.mp3
+*.log
+*.tmp
+*.srv1
+*.ttml
+
+# Antigravity runtime artifacts (keep the skill file itself)
+.agents/**
+!.agents/
+!.agents/skills/
+!.agents/skills/JAIIB-Note-Maker/
+!.agents/skills/JAIIB-Note-Maker/SKILL.md
