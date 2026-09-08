@@ -23,3 +23,5 @@ Each subject has 4 module folders. Notes are saved directly inside the relevant 
 - **Date:** November 2026
 - **Format:** 100 MCQs per subject | 2 hours | No negative marking
 - **Pass:** 50/100 (or 45 each with 50% aggregate across all papers)
+
+> Last synced: 2026-09-08 19:47
