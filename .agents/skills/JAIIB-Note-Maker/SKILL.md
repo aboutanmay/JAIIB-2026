@@ -104,13 +104,16 @@ If file exists, append `_v2`.
 
 ## Step 4 — Write the Notes
 
-> Follow the video's flow. Write what the instructor actually taught, in the order they taught it.
+> Follow the video's flow. Write what the instructor actually taught, in the order they taught it. BUT format it strictly to crack MCQs.
 
 **Every video must have:**
 - 3-line header: Topic, Module, YouTube URL
 - Core content in video sequence
+- **Case Scenarios:** Format practical examples explicitly as `> **Case Scenario:**` (IIBF loves scenario-based MCQs).
+- **Exceptions & Rules:** Bold and isolate any specific rules, limits, exceptions, dates, or years.
+- **MCQ Traps / "NOT" questions:** Explicitly highlight false statements or common misconceptions.
+- **Keyword Mapping:** Preserve the exact terminology used by the instructor.
 - MCQs the instructor solved — reproduced with answer + why wrong options are wrong
-- MCQ traps the instructor flagged
 - Tight quick-revision bullet list at the end
 
 **Numerical videos — add:**
